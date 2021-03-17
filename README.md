@@ -35,7 +35,7 @@ Powerful URL shortening tools in Laravel
 You can easily install this package using Composer, by running the following command:
 
 ```bash
-composer require laracrafts/laravel-url-shortener
+composer require kiranajudiya/laravel-url-shortener
 ```
 
 ### Requirements
